@@ -27,7 +27,9 @@ for eg: #[Drinks] Coca Cola
 - BSO category hashtag parser
     - hashtag with special character. for eg: #[@#$&**(}]] Coca Cola
     - hashtag like: #[] #[ Coca Cola 
-- There No paging for BSO's, All the BSO s are loaded at once    
+- There No paging for BSO's, All the BSO s are loaded at once 
+- Server error - similate using charles
+- no internet connection 
     
 
 ***
