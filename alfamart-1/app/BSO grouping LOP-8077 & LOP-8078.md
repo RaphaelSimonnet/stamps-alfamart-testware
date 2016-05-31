@@ -25,7 +25,7 @@ password:
     - hashtag category too long . for eg:  eg: #[DrinksDrinks DrinksDrinks DrinksDrinks DrinksDrinks DrinksDrinks ] Coca Cola
     - Empty hashtag category. for eg: #[ ] Coca Cola
     - hashtag category with special character. for eg: #[@#$&**(}]] Coca Cola
-    - hashtag categorywith unicode character. for eg: #[⌧ϔڅྵϢ] Coca Cola
+    - hashtag category with unicode character. for eg: #[⌧ϔڅྵϢ] Coca Cola
     - hashtag category like: #[] #[ Coca Cola 
 - 'others' category appears only when 
     - a BSO does not contain a category. for eg: Coca Cola
