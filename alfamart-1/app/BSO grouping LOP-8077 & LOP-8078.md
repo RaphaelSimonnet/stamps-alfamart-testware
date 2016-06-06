@@ -36,7 +36,7 @@ password:
     - a BSO does not contain a category. for eg: Coca Cola
     - improper way of creating a #[]. for eg: #[drinks Coca Cola
 - There No paging for BSO's, All the BSO s are loaded at once 
-- Server error - similate using charles
+- Server error - simulate using charles
 - no internet connection 
 - hashtag category is updated
 - BSO title under a BSO hashtag category is updated
