@@ -1,5 +1,5 @@
 ## Feature
-Voice OTP
+BSO parsing and grouping
 ***
 
 ## Test Basis
