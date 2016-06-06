@@ -26,7 +26,7 @@ password:
     - hashtag category starts with brackets. for eg: #[[Drinks] Coca Cola 
     - hashtag category extra with hashtag. for eg: ##[Drinks] Coca Cola 
     - hashtag category extra with hashtag separated with white space. for eg: # #[Drinks] Coca Cola 
-    - hashtag category too long . for eg:  eg: #[DrinksDrinks DrinksDrinks DrinksDrinks DrinksDrinks DrinksDrinks ] Coca Cola
+    - hashtag category too long . for eg:  eg: #[DrinksDrinks DrinksDrinks DrinksDrinks DrinksDrinks DrinksDrinks ] Coca Cola (TBD : max of 3 lines is displayed in app ????)
     - Empty hashtag category. for eg: #[ ] Coca Cola
     - hashtag category with special character. for eg: #[@#$&**(}] Coca Cola
     - hashtag category with unicode character. for eg: #[⌧ϔڅྵϢ] Coca Cola
